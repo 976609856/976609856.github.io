@@ -6,6 +6,8 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+## test Myfiles
+[Parallel Element-based Algebraic](https://coldwater.cc/files/Parallel Element-based Algebraic.pdf)
 
 ## Locations of key files/directories
 
